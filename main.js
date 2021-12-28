@@ -12,9 +12,9 @@
 		(function() {
 				var settings = {
 						images: {
-							'images/bg01.jpg': 'center',
-							'images/bg02.jpg': 'center',
-							'images/bg03.jpg': 'center'
+							'./bg01.jpg': 'center',
+							'./bg02.jpg': 'center',
+							'./bg03.jpg': 'center'
 						},
 						delay: 6000
 				};
